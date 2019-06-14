@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 script.php
+web: python NeuralNetwork.py runserver 0.0.0.0:5000
